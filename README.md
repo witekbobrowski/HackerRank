@@ -8,7 +8,7 @@
 
 # HackerRank
 
-This repository contains my solutions to tasks from hackerrank.com. Solutions are written entirely in Swift.
+This repository contains my solutions to tasks from hackerrank.com. Solutions are written entirely in Swift. This markdown file tracks my progress as I complete each challange.
 
 ### Core CS
 ##### Algorithms
@@ -25,3 +25,7 @@ This repository contains my solutions to tasks from hackerrank.com. Solutions ar
 - [ ] `Recursion`
 - [ ] `Game Theory`
 - [ ] `NP Complete`
+
+### Tutorials
+##### 30 Days of Code
+- `Day: 0`

@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-35_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-446-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-38_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-501-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -39,8 +39,8 @@
 - [x] [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) `Easy`
 - [x] [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) `Easy`
 - [x] [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner) `Easy`
-- [ ] [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) `Easy`
-- [ ] [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation) `Easy`
-- [ ] [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) `Easy`
+- [x] [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) `Easy`
+- [x] [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation) `Easy`
+- [x] [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) `Easy`
 - [ ] [Find Digits](https://www.hackerrank.com/challenges/find-digits) `Easy`
 - [ ] [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials) `Medium`

@@ -16,7 +16,7 @@ So yeah, this is my attempt at this challenge.
 - [x] [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop) `Easy`
 - [x] [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays) `Easy`
 - [x] [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) `Easy`
-- [ ] [Day 9: Recursion]()
+- [x] [Day 9: Recursion](https://www.hackerrank.com/challenges/30-recursion) `Easy`
 - [ ] [Day 10: Binary Numbers]()
 - [ ] [Day 11: 2D Arrays]()
 - [ ] [Day 12: Inheritance]()

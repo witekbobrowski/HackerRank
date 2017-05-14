@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-40_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-546-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-46_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-672.80-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -44,13 +44,25 @@
 - [x] [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) `Easy`
 - [x] [Find Digits](https://www.hackerrank.com/challenges/find-digits) `Easy`
 - [x] [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials) `Medium`
-- [ ] [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete) `Easy`
-- [ ] [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) `Easy`
-- [ ] [Library Fine](https://www.hackerrank.com/challenges/library-fine) `Easy`
-- [ ] [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks) `Easy`
-- [ ] [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) `Medium`
+- [x] [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete) `Easy`
+- [x] [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) `Easy`
+- [x] [Library Fine](https://www.hackerrank.com/challenges/library-fine) `Easy`
+- [x] [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks) `Easy`
+- [x] [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) `Medium`
 - [ ] [Repeated String](https://www.hackerrank.com/challenges/repeated-string) `Easy`
 - [ ] [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) `Easy`
 - [ ] [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array) `Easy`
 - [ ] [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) `Medium`
 - [ ] [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) `Easy`
+
+##### Sorting Challenges
+- [ ] [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) `Easy`
+- [x] [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) `Easy`
+- [ ] [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1) `Easy`
+- [ ] [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2) `Easy`
+- [ ] [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant) `Easy`
+- [ ] [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime) `Easy`
+- [x] [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1) `Easy`
+- [ ] [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2) `Easy`
+- [ ] [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3) `Medium`
+- [ ] [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4) `Easy`

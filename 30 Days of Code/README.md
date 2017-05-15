@@ -1,5 +1,5 @@
 # 30 Days of Code
-![30DaysOfCode](https://img.shields.io/badge/Days-11_complete-green.svg)
+![30DaysOfCode](https://img.shields.io/badge/Days-12_complete-green.svg)
 >30 Days of Code is an opportunity for you to learn how to code or brush up on your fundamentals. Each day, you'll unlock a new challenge and a corresponding video tutorial to help you learn.
 
 >The tutorial is Java-based, but you can also choose other popular languages to submit your solution. Topics include if-else statements, recursion, data structures and more.
@@ -18,7 +18,7 @@ So yeah, this is my attempt at this challenge.
 - [x] [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) `Easy`
 - [x] [Day 9: Recursion](https://www.hackerrank.com/challenges/30-recursion) `Easy`
 - [x] [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) `Easy`
-- [ ] [Day 11: 2D Arrays]()
+- [x] [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) `Easy`
 - [ ] [Day 12: Inheritance]()
 - [ ] [Day 13: Abstract Classes]()
 - [ ] [Day 14: Scope]()

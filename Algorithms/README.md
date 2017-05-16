@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-50_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-762.80-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-51_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-792.80-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -52,7 +52,7 @@
 - [x] [Repeated String](https://www.hackerrank.com/challenges/repeated-string) `Easy`
 - [x] [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) `Easy`
 - [x] [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array) `Easy`
-- [ ] [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) `Medium`
+- [x] [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) `Medium`
 - [ ] [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) `Easy`
 
 ##### Sorting Challenges

@@ -20,7 +20,7 @@ So yeah, this is my attempt at this challenge.
 - [x] [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) `Easy`
 - [x] [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) `Easy`
 - [x] [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance) `Easy`
-- [ ] [Day 13: Abstract Classes]()
+- [x] [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) `Easy`
 - [ ] [Day 14: Scope]()
 - [ ] [Day 15: Linked List]()
 - [ ] [Day 16: Exceptions - String to Integer]()

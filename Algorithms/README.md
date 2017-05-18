@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-51_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-792.80-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-53_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-842.80-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -53,7 +53,17 @@
 - [x] [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) `Easy`
 - [x] [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array) `Easy`
 - [x] [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) `Medium`
-- [ ] [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) `Easy`
+- [x] [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) `Easy`
+- [x] [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday) `Easy`
+- [ ] [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls) `Medium`
+- [ ] [Encryption](https://www.hackerrank.com/challenges/encryption) `Medium`
+- [ ] [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) `Medium`
+- [ ] [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers) `Easy`
+- [ ] [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets) `Easy`
+- [ ] [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances) `Easy`
+- [ ] [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) `Medium`
+- [ ] [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast) `Easy`
+- [ ] [Service Lane](https://www.hackerrank.com/challenges/service-lane) `Easy`
 
 ##### Sorting Challenges
 - [ ] [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) `Easy`

@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-53_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-842.80-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-54_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-872.80-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -55,7 +55,7 @@
 - [x] [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) `Medium`
 - [x] [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) `Easy`
 - [x] [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday) `Easy`
-- [ ] [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls) `Medium`
+- [x] [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls) `Medium`
 - [ ] [Encryption](https://www.hackerrank.com/challenges/encryption) `Medium`
 - [ ] [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) `Medium`
 - [ ] [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers) `Easy`

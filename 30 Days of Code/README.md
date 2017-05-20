@@ -1,12 +1,8 @@
 # 30 Days of Code
-![30DaysOfCode](https://img.shields.io/badge/Days-16_complete-green.svg)
+![30DaysOfCode](https://img.shields.io/badge/Days-17_complete-green.svg)
 >30 Days of Code is an opportunity for you to learn how to code or brush up on your fundamentals. Each day, you'll unlock a new challenge and a corresponding video tutorial to help you learn.
 
->The tutorial is Java-based, but you can also choose other popular languages to submit your solution. Topics include if-else statements, recursion, data structures and more.
-
-So yeah, this is my attempt at this challenge.
-
-##### 30 Days of Code Challenges
+### 30 Days of Code Challenges
 - [x] [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world) `Easy`
 - [x] [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types) `Easy`
 - [x] [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators) `Easy`
@@ -22,21 +18,11 @@ So yeah, this is my attempt at this challenge.
 - [x] [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance) `Easy`
 - [x] [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) `Easy`
 - [x] [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope) `Easy`
-- [x] [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list) `Easy
-- [ ] [Day 16: Exceptions - String to Integer]()
+- [x] [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list) `Easy`
+- [x] [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) `Easy`
 - [ ] [Day 17: More Exceptions]()
 - [ ] [Day 18: Queues and Stacks]()
 - [ ] [Day 19: Interfaces]()
-- [ ] [Day 20: Sorting]()
-- [ ] [Day 21: Generics]()
-- [ ] [Day 22: Binary Search Trees]()
-- [ ] [Day 23: BST Level-Order Traversal]()
-- [ ] [Day 24: More Linked Lists]()
-- [ ] [Day 25: Running Time and Complexity]()
-- [ ] [Day 26: Nested Logic]()
-- [ ] [Day 27: Testing]()
-- [ ] [Day 28: RegEx, Patterns, and Intro to Databases]()
-- [ ] [Day 29: Bitwise AND]()
 - [ ] [Day 20: Sorting]()
 - [ ] [Day 21: Generics]()
 - [ ] [Day 22: Binary Search Trees]()

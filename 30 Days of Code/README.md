@@ -1,5 +1,5 @@
 # 30 Days of Code
-![30DaysOfCode](https://img.shields.io/badge/Days-18_complete-green.svg)
+![30DaysOfCode](https://img.shields.io/badge/Days-19_complete-green.svg)
 >30 Days of Code is an opportunity for you to learn how to code or brush up on your fundamentals. Each day, you'll unlock a new challenge and a corresponding video tutorial to help you learn.
 
 ### 30 Days of Code Challenges
@@ -21,7 +21,7 @@
 - [x] [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list) `Easy`
 - [x] [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) `Easy`
 - [x] [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) `Easy`
-- [ ] [Day 18: Queues and Stacks]()
+- [x] [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) `Easy`
 - [ ] [Day 19: Interfaces]()
 - [ ] [Day 20: Sorting]()
 - [ ] [Day 21: Generics]()

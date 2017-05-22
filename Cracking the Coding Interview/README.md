@@ -1,5 +1,5 @@
 # Cracking the Coding Interview
-![CrackingtheCodingInterview](https://img.shields.io/badge/Challenges-4_Complete-green.svg)
+![CrackingtheCodingInterview](https://img.shields.io/badge/Challenges-8_Complete-green.svg)
 >Ace your next interview by solving these code challenges, which cover important concepts for any coding interview.
 
 ### Cracking the Coding Interview Challenges
@@ -16,7 +16,7 @@
 - [ ] [Tries: Contacts](https://www.hackerrank.com/challenges/ctci-contacts) `Hard`
 
 ##### Algorithms
-- [ ] [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort) `Medium`
+- [x] [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort) `Medium`
 - [ ] [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting) `Medium`
 - [ ] [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort) `Hard`
 - [ ] [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) `Medium`
@@ -25,7 +25,7 @@
 
 ##### Techniques/Concepts
 - [ ] [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o) `Medium`
-- [ ] [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) `Easy`
-- [ ] [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase) `Medium`
+- [x] [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) `Easy`
+- [x] [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase) `Medium`
 - [ ] [DP: Coin Change](https://www.hackerrank.com/challenges/ctci-coin-change) `Hard`
-- [ ] [Bit Manipulation: Lonely Integer](https://www.hackerrank.com/challenges/ctci-lonely-integer) `Easy`
+- [x] [Bit Manipulation: Lonely Integer](https://www.hackerrank.com/challenges/ctci-lonely-integer) `Easy`

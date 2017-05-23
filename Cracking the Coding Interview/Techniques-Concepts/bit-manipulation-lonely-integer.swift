@@ -1,3 +1,5 @@
+//  https://www.hackerrank.com/challenges/ctci-lonely-integer
+
 import Foundation
 
 private func lonelyInteger(in array: [Int]) -> Int {

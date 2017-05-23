@@ -1,7 +1,5 @@
 import Foundation
 
-let n = Int(readLine()!)!
-
 private func checkIfNumberIsWeird(_ number: Int) -> String {
     if number % 2 == 1 {
         return "Weird"
@@ -15,4 +13,4 @@ private func checkIfNumberIsWeird(_ number: Int) -> String {
     }
 }
 
-print(checkIfNumberIsWeird(n))
+print(checkIfNumberIsWeird(Int(readLine()!)!))

@@ -1,8 +1,5 @@
 import Foundation
 
-let n = Int(readLine()!)!
-let array = readLine()!.components(separatedBy: " ").map { Int($0)! }
-
 private func reversedArray(_ array: [Int]) -> [Int]{
     var result: [Int] = []
     for number in array{
@@ -11,7 +8,8 @@ private func reversedArray(_ array: [Int]) -> [Int]{
     return result
 }
 
-let results = reversedArray(array)
+let n = Int(readLine()!)!
+let results = reversedArray(readLine()!.components(separatedBy: " ").map { Int($0)! })
 
 for result in results {
     print(result, terminator: " ")

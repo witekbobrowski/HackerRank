@@ -1,8 +1,6 @@
 import Foundation
 import Darwin
 
-let numStrings = Int(readLine()!)!
-
 func printEvenAndOdd(string: String){
         var even = ""
         var odd = ""
@@ -19,7 +17,7 @@ func printEvenAndOdd(string: String){
         print("\(even) \(odd)")
 }
 
-for _ in 1...numStrings {
+for _ in 1...Int(readLine()!)! {
     let inputString = readLine()!
     printEvenAndOdd(string: inputString)
 }

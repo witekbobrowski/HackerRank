@@ -23,7 +23,7 @@
 - [x] [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) `Easy`
 - [x] [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) `Easy`
 - [x] [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces) `Easy`
-- [ ] [Day 20: Sorting]()
+- [x] [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting) `Easy`
 - [ ] [Day 21: Generics]()
 - [ ] [Day 22: Binary Search Trees]()
 - [ ] [Day 23: BST Level-Order Traversal]()

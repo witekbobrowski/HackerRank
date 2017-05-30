@@ -28,6 +28,18 @@ This repository contains my solutions to challenges from hackerrank.com. Solutio
 - [ ] `Game Theory`
 - [ ] `NP Complete`
 
+##### Data Structures
+- [ ] `Arrays`
+- [ ] `Trees`
+- [ ] `Balanced Trees`
+- [ ] `Stacks`
+- [ ] `Queues`
+- [ ] `Heap`
+- [ ] `Disjoint Set`
+- [ ] `Multiple Choice`
+- [ ] `Trie`
+- [ ] `Advanced`
+
 ### Tutorials
 
 ##### 30 Days of Code

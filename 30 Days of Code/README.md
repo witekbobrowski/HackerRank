@@ -1,5 +1,11 @@
+<p align="center">
+    <a href="https://www.hackerrank.com/witekbobrowski">
+        <img height=150 src="challenge-complete.png">
+    </a>
+</p>
+
 # 30 Days of Code
-![30DaysOfCode](https://img.shields.io/badge/Days-29_complete-green.svg)
+![30DaysOfCode](https://img.shields.io/badge/Days-30_complete-green.svg)
 >30 Days of Code is an opportunity for you to learn how to code or brush up on your fundamentals. Each day, you'll unlock a new challenge and a corresponding video tutorial to help you learn.
 
 ### 30 Days of Code Challenges
@@ -32,4 +38,4 @@
 - [x] [Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic) `Easy`
 - [x] [Day 27: Testing](https://www.hackerrank.com/challenges/30-testing) `Easy`
 - [x] [Day 28: RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns) `Medium`
-- [ ] [Day 29: Bitwise AND]()
+- [x] [Day 29: Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and) `Medium`

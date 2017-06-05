@@ -1,5 +1,5 @@
 # Cracking the Coding Interview
-![CrackingtheCodingInterview](https://img.shields.io/badge/Challenges-17_Complete-green.svg)
+![CrackingtheCodingInterview](https://img.shields.io/badge/Challenges-18_Complete-green.svg)
 >Ace your next interview by solving these code challenges, which cover important concepts for any coding interview.
 
 ### Cracking the Coding Interview Challenges
@@ -12,7 +12,7 @@
 - [x] [Stacks: Balanced Brackets](https://www.hackerrank.com/challenges/ctci-balanced-brackets) `Medium`
 - [x] [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) `Medium`
 - [ ] [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree) `Medium`
-- [ ] [Heaps: Find the Running Median](https://www.hackerrank.com/challenges/ctci-find-the-running-median) `Hard`
+- [x] [Heaps: Find the Running Median](https://www.hackerrank.com/challenges/ctci-find-the-running-median) `Hard`
 - [ ] [Tries: Contacts](https://www.hackerrank.com/challenges/ctci-contacts) `Hard`
 
 ##### Algorithms

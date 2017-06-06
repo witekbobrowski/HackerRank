@@ -4,7 +4,7 @@
     </a>
 </p>
 
-![Language](https://img.shields.io/badge/Language-Swift-orange.svg) ![Algorithms](https://img.shields.io/badge/Alghorithms-25_Complete-orange.svg) ![30DaysOfCode](https://img.shields.io/badge/30_Days_of_Code-Day_2-green.svg)
+![Language](https://img.shields.io/badge/Language-Swift-orange.svg)
 
 # HackerRank
 
@@ -28,4 +28,9 @@ This repository contains my solutions to challenges from hackerrank.com. Solutio
 
 ### Tutorials
 ##### 30 Days of Code
-- `Day: 2`
+- [x] `30 Challenges completed`
+
+##### Cracking the Coding Interview
+- [x] `Data Structures`
+- [x] `Algorithms`
+- [x] `Techniques/Concepts`

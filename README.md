@@ -29,3 +29,8 @@ This repository contains my solutions to challenges from hackerrank.com. Solutio
 ### Tutorials
 ##### 30 Days of Code
 - [x] `30 Challenges completed`
+
+##### Cracking the Coding Interview
+- [x] `Data Structures`
+- [x] `Algorithms`
+- [x] `Techniques/Concepts`

@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-57_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-962.8-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-58_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-982.8-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -60,7 +60,7 @@
 - [ ] [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) `Medium`
 - [ ] [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers) `Easy`
 - [ ] [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets) `Easy`
-- [ ] [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances) `Easy`
+- [s] [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances) `Easy`
 - [ ] [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) `Medium`
 - [ ] [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast) `Easy`
 - [ ] [Service Lane](https://www.hackerrank.com/challenges/service-lane) `Easy`

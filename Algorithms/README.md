@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-61_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1022.8-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-62_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1042.8-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -66,16 +66,16 @@
 - [ ] [Service Lane](https://www.hackerrank.com/challenges/service-lane) `Easy`
 
 ##### Strings Challenges
-- [x] [Super Reduced String]() `Easy`
-- [x] [CamelCase]() `Easy`
-- [ ] [Two Characters]() `Easy`
-- [ ] [Caesar Cipher]() `Easy`
-- [x] [Mars Exploration]() `Easy`
-- [ ] [HackerRank in a String!]() `Easy`
-- [ ] [Pangrams]() `Easy`
-- [ ] [Weighted Uniform Strings]() `Easy`
-- [ ] [Separate the Numbers]() `Easy`
-- [ ] [Funny String]() `Easy`
+- [x] [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string) `Easy`
+- [x] [CamelCase](https://www.hackerrank.com/challenges/camelcase) `Easy`
+- [ ] [Two Characters](https://www.hackerrank.com/challenges/two-characters) `Easy`
+- [ ] [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1) `Easy`
+- [x] [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) `Easy`
+- [x] [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string) `Easy`
+- [ ] [Pangrams](https://www.hackerrank.com/challenges/pangrams) `Easy`
+- [ ] [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) `Easy`
+- [ ] [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) `Easy`
+- [ ] [Funny String](https://www.hackerrank.com/challenges/funny-string) `Easy`
 
 ##### Sorting Challenges
 - [ ] [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) `Easy`

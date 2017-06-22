@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-62_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1042.8-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-64_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1157.8-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -88,3 +88,27 @@
 - [ ] [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2) `Easy`
 - [ ] [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3) `Medium`
 - [ ] [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4) `Easy`
+
+##### Graph Theory Challenges
+- [ ] [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development) `Medium`
+- [ ] [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon) `Medium`
+- [ ] [Synchronous Shopping](https://www.hackerrank.com/challenges/synchronous-shopping) `Medium`
+- [ ] [Subset Component](https://www.hackerrank.com/challenges/subset-component) `Hard`
+- [x] [Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach) `Medium`
+- [ ] [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub) `Medium`
+- [ ] [Even Tree](https://www.hackerrank.com/challenges/even-tree) `Medium`
+- [ ] [Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up) `Medium`
+- [ ] [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach) `Hard`
+- [ ] [The Story of a Tree](https://www.hackerrank.com/challenges/the-story-of-a-tree) `Medium`
+
+##### Dynamic Programming Challenges
+- [x] [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) `Hard`
+- [ ] [Equal](https://www.hackerrank.com/challenges/equal) `Medium`
+- [ ] [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost) `Medium`
+- [ ] [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division) `Medium`
+- [ ] [Candies](https://www.hackerrank.com/challenges/candies) `Medium`
+- [ ] [Sam and sub-strings](https://www.hackerrank.com/challenges/sam-and-substrings) `Medium`
+- [ ] [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) `Medium`
+- [ ] [Abbreviation](https://www.hackerrank.com/challenges/abbr) `Medium`
+- [ ] [Prime XOR](https://www.hackerrank.com/challenges/prime-xor) `Medium`
+- [ ] [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers) `Hard`

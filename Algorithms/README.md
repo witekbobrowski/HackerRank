@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-64_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1157.8-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-65_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1177.8-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -72,7 +72,7 @@
 - [ ] [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1) `Easy`
 - [x] [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) `Easy`
 - [x] [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string) `Easy`
-- [ ] [Pangrams](https://www.hackerrank.com/challenges/pangrams) `Easy`
+- [x] [Pangrams](https://www.hackerrank.com/challenges/pangrams) `Easy`
 - [ ] [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) `Easy`
 - [ ] [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) `Easy`
 - [ ] [Funny String](https://www.hackerrank.com/challenges/funny-string) `Easy`

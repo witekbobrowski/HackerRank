@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-70_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1322.8-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-71_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1381.47-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -92,7 +92,7 @@
 - [x] [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2) `Easy`
 - [ ] [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) `Medium`
 - [ ] [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers) `Easy`
-- [ ] [Find the Median](https://www.hackerrank.com/challenges/find-the-median) `Easy`
+- [x] [Find the Median](https://www.hackerrank.com/challenges/find-the-median) `Easy`
 - [ ] [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort) `Advanced`
 - [ ] [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications) `Medium`
 - [ ] [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework) `Medium`

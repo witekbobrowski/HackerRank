@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-71_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1381.47-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-73_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1432.8-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -90,8 +90,8 @@
 - [ ] [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4) `Easy`
 - [x] [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1) `Easy`
 - [x] [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2) `Easy`
-- [ ] [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) `Medium`
-- [ ] [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers) `Easy`
+- [x] [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) `Medium`
+- [x] [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers) `Easy`
 - [x] [Find the Median](https://www.hackerrank.com/challenges/find-the-median) `Easy`
 - [ ] [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort) `Advanced`
 - [ ] [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications) `Medium`

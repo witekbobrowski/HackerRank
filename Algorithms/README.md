@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-73_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1432.8-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-74_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1467.8-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -86,7 +86,7 @@
 - [x] [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime) `Easy`
 - [x] [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1) `Easy`
 - [ ] [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2) `Easy`
-- [ ] [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3) `Medium`
+- [x] [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3) `Medium`
 - [ ] [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4) `Easy`
 - [x] [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1) `Easy`
 - [x] [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2) `Easy`

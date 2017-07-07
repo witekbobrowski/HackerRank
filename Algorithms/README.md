@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-78_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1576-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-79_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1616-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -94,7 +94,7 @@
 - [x] [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers) `Easy`
 - [x] [Find the Median](https://www.hackerrank.com/challenges/find-the-median) `Easy`
 - [ ] [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort) `Advanced`
-- [ ] [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications) `Medium`
+- [x] [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications) `Medium`
 - [x] [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework) `Medium`
 
 ##### Graph Theory Challenges

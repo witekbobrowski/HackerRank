@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-79_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1616-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-83_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1596-blue.svg)
 
 ##### Warmup Challenges
 - [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) `Easy`
@@ -76,6 +76,16 @@
 - [ ] [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) `Easy`
 - [ ] [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) `Easy`
 - [x] [Funny String](https://www.hackerrank.com/challenges/funny-string) `Easy`
+- [x] [Gemstones](https://www.hackerrank.com/challenges/gem-stones) `Easy`
+- [x] [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) `Easy`
+- [x] [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string) `Easy`
+- [x] [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery) `Easy`
+- [ ] [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health) `Easy`
+- [ ] [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index) `Easy`
+- [ ] [Anagram](https://www.hackerrank.com/challenges/anagram) `Easy`
+- [ ] [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) `Easy`
+- [ ] [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) `Easy`
+- [ ] [Two Strings](https://www.hackerrank.com/challenges/two-strings) `Easy`
 
 ##### Sorting Challenges
 - [x] [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) `Easy`

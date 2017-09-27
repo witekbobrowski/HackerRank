@@ -13,7 +13,7 @@ This repository contains my solutions to challenges from hackerrank.com. Solutio
 
 ### Core CS
 
-##### Algorithms
+##### [Algorithms](Algorithms/)
 - [x] `Warmup`
 - [ ] `Implementation`
 - [ ] `Strings`
@@ -28,7 +28,7 @@ This repository contains my solutions to challenges from hackerrank.com. Solutio
 - [ ] `Game Theory`
 - [ ] `NP Complete`
 
-##### Data Structures
+##### [Data Structures](Data%Structures/)
 - [ ] `Arrays`
 - [ ] `Trees`
 - [ ] `Balanced Trees`
@@ -42,10 +42,10 @@ This repository contains my solutions to challenges from hackerrank.com. Solutio
 
 ### Tutorials
 
-##### 30 Days of Code
+##### [30 Days of Code](30%Days%of%Code/)
 - [x] `30 Challenges completed`
 
-##### Cracking the Coding Interview
+##### [Cracking the Coding Interview](Cracking%the%Coding%Interview/)
 - [x] `Data Structures`
 - [x] `Algorithms`
 - [x] `Techniques/Concepts`

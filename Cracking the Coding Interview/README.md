@@ -11,27 +11,27 @@
 ### Cracking the Coding Interview Challenges
 
 ##### Data Structures
-- [x] [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) `Easy`
-- [x] [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams) `Easy`
-- [x] [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note) `Easy`
-- [x] [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle) `Easy`
-- [x] [Stacks: Balanced Brackets](https://www.hackerrank.com/challenges/ctci-balanced-brackets) `Medium`
-- [x] [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) `Medium`
-- [x] [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree) `Medium`
-- [x] [Heaps: Find the Running Median](https://www.hackerrank.com/challenges/ctci-find-the-running-median) `Hard`
-- [x] [Tries: Contacts](https://www.hackerrank.com/challenges/ctci-contacts) `Hard`
+- [x] [Arrays: Left Rotation](Data%Structures/arrays-left-rotation.swift) `Easy`
+- [x] [Strings: Making Anagrams](Data%Structures/stacks-balanced-brackets.swift) `Easy`
+- [x] [Hash Tables: Ransom Note](Data%Structures/hash-tables-ransom-note.swift) `Easy`
+- [x] [Linked Lists: Detect a Cycle](Data%Structures/linked-lists-detect-a-cycle.swift) `Easy`
+- [x] [Stacks: Balanced Brackets](Data%Structures/stacks-balanced-brackets.swift) `Medium`
+- [x] [Queues: A Tale of Two Stacks](Data%Structures/queues-a-tale-of-two-stacks.swift) `Medium`
+- [x] [Trees: Is This a Binary Search Tree?](Data%Structures/trees-is-this-a-binary-search-tree.swift) `Medium`
+- [x] [Heaps: Find the Running Median](Data%Structures/heaps-find-the-running-median.swift) `Hard`
+- [x] [Tries: Contacts](Data%Structures/tries-contacts.swift) `Hard`
 
 ##### Algorithms
-- [x] [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort) `Medium`
-- [x] [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting) `Medium`
-- [x] [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort) `Hard`
-- [x] [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) `Medium`
-- [x] [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid) `Hard`
-- [x] [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach) `Hard`
+- [x] [Sorting: Bubble Sort](Algorithms/sorting-bubble-sort.swift) `Medium`
+- [x] [Sorting: Comparator](Algorithms/sorting-comparator.swift) `Medium`
+- [x] [Merge Sort: Counting Inversions](Algorithms/merge-sort-counting-inversions.swift) `Hard`
+- [x] [Binary Search: Ice Cream Parlor](Algorithms/binary-search-ice-cream-parlol.swift) `Medium`
+- [x] [DFS: Connected Cell in a Grid](Algorithms/dfs-connected-cell-in-a-grid.swift) `Hard`
+- [x] [BFS: Shortest Reach in a Graph](Algorithms/bfs-shortest-reach-in-a-graph.swift) `Hard`
 
 ##### Techniques/Concepts
-- [x] [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o) `Medium`
-- [x] [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) `Easy`
-- [x] [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase) `Medium`
-- [x] [DP: Coin Change](https://www.hackerrank.com/challenges/ctci-coin-change) `Hard`
-- [x] [Bit Manipulation: Lonely Integer](https://www.hackerrank.com/challenges/ctci-lonely-integer) `Easy`
+- [x] [Time Complexity: Primality](Techniques-Concepts/time-complexity-primality.swift) `Medium`
+- [x] [Recursion: Fibonacci Numbers](Techniques-Concepts/recursion-fibonacci-numbers.swift) `Easy`
+- [x] [Recursion: Davis' Staircase](Techniques-Concepts/recursion-davis-staircase.swift) `Medium`
+- [x] [DP: Coin Change](Techniques-Concepts/dp-coin-change.swift) `Hard`
+- [x] [Bit Manipulation: Lonely Integer](Techniques-Concepts/bit-manipulation-lonely-integer.swift) `Easy`

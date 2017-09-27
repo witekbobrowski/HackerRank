@@ -9,33 +9,33 @@
 >30 Days of Code is an opportunity for you to learn how to code or brush up on your fundamentals. Each day, you'll unlock a new challenge and a corresponding video tutorial to help you learn.
 
 ### 30 Days of Code Challenges
-- [x] [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world) `Easy`
-- [x] [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types) `Easy`
-- [x] [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators) `Easy`
-- [x] [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements) `Easy`
-- [x] [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance) `Easy`
-- [x] [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops) `Easy`
-- [x] [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop) `Easy`
-- [x] [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays) `Easy`
-- [x] [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) `Easy`
-- [x] [Day 9: Recursion](https://www.hackerrank.com/challenges/30-recursion) `Easy`
-- [x] [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) `Easy`
-- [x] [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) `Easy`
-- [x] [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance) `Easy`
-- [x] [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) `Easy`
-- [x] [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope) `Easy`
-- [x] [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list) `Easy`
-- [x] [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) `Easy`
-- [x] [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) `Easy`
-- [x] [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) `Easy`
-- [x] [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces) `Easy`
-- [x] [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting) `Easy`
-- [x] [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics) `Easy`
-- [x] [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees) `Easy`
-- [x] [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees) `Easy`
-- [x] [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion) `Easy`
-- [x] [Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity) `Medium`
-- [x] [Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic) `Easy`
-- [x] [Day 27: Testing](https://www.hackerrank.com/challenges/30-testing) `Easy`
-- [x] [Day 28: RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns) `Medium`
-- [x] [Day 29: Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and) `Medium`
+- [x] [Day 0: Hello, World.](day-00-hello-world.swift) `Easy`
+- [x] [Day 1: Data Types](day-01-data-types.swift) `Easy`
+- [x] [Day 2: Operators](day-02-operators.swift) `Easy`
+- [x] [Day 3: Intro to Conditional Statements](day-03-intro-to-conditional-statements.swift) `Easy`
+- [x] [Day 4: Class vs. Instance](day-04-class-vs-instance.swift) `Easy`
+- [x] [Day 5: Loops](day-05-loops.swift) `Easy`
+- [x] [Day 6: Let's Review](day-06-lets-review.swift) `Easy`
+- [x] [Day 7: Arrays](day-07-arrays.swift) `Easy`
+- [x] [Day 8: Dictionaries and Maps](day-08-dictionaries-and-maps.swift) `Easy`
+- [x] [Day 9: Recursion](day-09-recursion.swift) `Easy`
+- [x] [Day 10: Binary Numbers](day-10-binary-numbers.swift) `Easy`
+- [x] [Day 11: 2D Arrays](day-11-2d-arrays.swift) `Easy`
+- [x] [Day 12: Inheritance](day-12-inheritance.swift) `Easy`
+- [x] [Day 13: Abstract Classes](day-13-abstract-classes.swift) `Easy`
+- [x] [Day 14: Scope](day-14-scope.swift) `Easy`
+- [x] [Day 15: Linked List](day-15-linked-list.swift) `Easy`
+- [x] [Day 16: Exceptions - String to Integer](day-16-exceptions-string-to-integer.swift) `Easy`
+- [x] [Day 17: More Exceptions](day-17-more-exceptions.swift) `Easy`
+- [x] [Day 18: Queues and Stacks](day-18-queues-and-stacks.swift) `Easy`
+- [x] [Day 19: Interfaces](day-19-interfaces.swift) `Easy`
+- [x] [Day 20: Sorting](day-20-sorting.swift) `Easy`
+- [x] [Day 21: Generics](day-21-generics.swift) `Easy`
+- [x] [Day 22: Binary Search Trees](day-22-binary-search-trees.swift) `Easy`
+- [x] [Day 23: BST Level-Order Traversal](day-23-bst-level-order-traversal.swift) `Easy`
+- [x] [Day 24: More Linked Lists](day-24-more-linked-list.swift) `Easy`
+- [x] [Day 25: Running Time and Complexity](day-25-running-time-and-complexity.swift) `Medium`
+- [x] [Day 26: Nested Logic](day-26-nested-logic.swift) `Easy`
+- [x] [Day 27: Testing](day-27-testing.swift) `Easy`
+- [x] [Day 28: RegEx, Patterns, and Intro to Databases](day-28-regex-patterns-and-intro-to-databases.swift) `Medium`
+- [x] [Day 29: Bitwise AND](day-29-bitwise-and.swift) `Medium`

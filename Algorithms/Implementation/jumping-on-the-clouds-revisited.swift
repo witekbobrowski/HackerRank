@@ -13,7 +13,7 @@ private func jumpOn(_ clouds: [Int], distance: Int) -> Int{
         }
     }
     repeat {
-        cloud = ((cloud + distance) % clouds.count) == 0 ? 0 : cloud + distance
+        cloud = ((cloud + distance) % clouds.count) == 0 ? 0 :  (cloud + distance) % clouds.count
     } while cloud != 0
 
     return energy
